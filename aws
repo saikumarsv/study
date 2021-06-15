@@ -16,3 +16,15 @@ sqs
 sns
 cloudwatch alarms
 cloudwatch insights
+cloudformation
+kinesis
+route 53
+resource group and tag editor
+aws cost explorer
+ecr
+ebs
+codecommit
+cloudshell
+artifactory
+appstream
+aws budgets/optimisation
