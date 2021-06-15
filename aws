@@ -1,0 +1,18 @@
+aws
+
+ec2
+ecs
+sg
+vpc
+subnet
+secret manager
+lambda
+iam
+redis
+rds aurora mysql
+s3
+codedeploy
+sqs
+sns
+cloudwatch alarms
+cloudwatch insights
