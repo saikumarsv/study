@@ -1,3 +1,26 @@
 system design
 
 https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+
+tinder as microservice
+profile service
+images - image url - db - image service
+dfs - distributed file system
+
+direct messaging
+xmpp
+client server communication protocol
+push messages - peer to peer protocol
+web socket, tcp connection
+
+matcher service
+user to user mapping
+sessions
+
+recommending people
+
+
+
+
+
+
